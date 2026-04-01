@@ -1,6 +1,6 @@
 # Neural Networks & Generative AI Assignment
-**M10 | Applied Artificial Intelligence**  
-**Author:** Alexandra Johnson
+**M10 | AA1201**  
+**Author:** Hannah Johnson
 
 ---
 
